@@ -14,5 +14,7 @@
 
 1. [Cocoapods: framework distribution support](https://cocoapods.org)
 
+1. [ARC: Automatic Reference Counting](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html)
+
 
 
